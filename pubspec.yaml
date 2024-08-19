@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   http: 
   firebase_messaging: ^15.0.1
+  intl:
 
 dev_dependencies:
   flutter_test:
